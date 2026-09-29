@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "description": "Gorcery",
+        "category": "Food",
+        "amount": 3500.0,
+        "date": "08 05 2026",
+        "payment_method": "Upi"
+    }
+]
